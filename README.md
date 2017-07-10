@@ -1,6 +1,6 @@
 # BadgeView
 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView
-
+123
 ![](https://github.com/qstumn/BadgeView/blob/master/demo.png?raw=true)
 
 ![](https://github.com/qstumn/BadgeView/blob/master/demo_gif.gif?raw=true)
